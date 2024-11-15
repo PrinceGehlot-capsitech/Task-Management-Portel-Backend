@@ -1,0 +1,108 @@
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\appsettings.json
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\SignInPage.exe
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\SignInPage.deps.json
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\SignInPage.runtimeconfig.json
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\SignInPage.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\SignInPage.pdb
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\DnsClient.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Snappier.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.csproj.AssemblyReference.cache
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.AssemblyInfoInputs.cache
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.AssemblyInfo.cs
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.csproj.CoreCompileInputs.cache
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets\msbuild.SignInPage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets\msbuild.build.SignInPage.props
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignInPage.props
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignInPage.props
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\scopedcss\bundle\SignInPage.styles.css
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.csproj.Up2Date
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\refint\SignInPage.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.pdb
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.genruntimeconfig.cache
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\obj\Debug\net8.0\ref\SignInPage.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CT_USER\source\repos\SignInPage\SignInPage\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\appsettings.json
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\SignInPage.exe
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\SignInPage.deps.json
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\SignInPage.runtimeconfig.json
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\SignInPage.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\SignInPage.pdb
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\DnsClient.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Snappier.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.csproj.AssemblyReference.cache
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.AssemblyInfoInputs.cache
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.AssemblyInfo.cs
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.csproj.CoreCompileInputs.cache
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets\msbuild.SignInPage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets\msbuild.build.SignInPage.props
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignInPage.props
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignInPage.props
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\scopedcss\bundle\SignInPage.styles.css
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.csproj.Up2Date
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\refint\SignInPage.dll
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.pdb
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\SignInPage.genruntimeconfig.cache
+C:\Users\CT_USER\Desktop\javascript\New folder\backend\SignInPage\SignInPage\obj\Debug\net8.0\ref\SignInPage.dll

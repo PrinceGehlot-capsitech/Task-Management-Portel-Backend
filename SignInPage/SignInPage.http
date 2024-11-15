@@ -1,0 +1,6 @@
+@SignInPage_HostAddress = http://localhost:5031
+
+GET {{SignInPage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "SignInPage.Controllers.SignInController",
+    "Method": "Post",
+    "RelativePath": "api/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newsignInDetails",
+        "Type": "SignInPage.Models.SignInDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignInPage.Controllers.SignInController",
+    "Method": "Get",
+    "RelativePath": "api/SignIn",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[SignInPage.Models.SignInDetails, SignInPage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SignInPage.Controllers.SignInController",
+    "Method": "Authenticate",
+    "RelativePath": "api/SignIn/authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "signInDetails",
+        "Type": "SignInPage.Models.SignInDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignInPage.Controllers.SignInController",
+    "Method": "GetById",
+    "RelativePath": "api/SignIn/GetDetails/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SignInPage.Models.SignInDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
