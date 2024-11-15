@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignInPage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8493bd62a11cc2a802dbdceb59c341997f671dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignInPage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignInPage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

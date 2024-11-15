@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "To0fTNV6Bk4=",
+  "dgSpecHash": "GtJ+he+JqzE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\CT_USER\\source\\repos\\SignInPage\\SignInPage\\SignInPage.csproj",
+  "projectFilePath": "C:\\Users\\CT_USER\\source\\repos\\Task-Management-Portel-Backend\\SignInPage\\SignInPage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CT_USER\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\CT_USER\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

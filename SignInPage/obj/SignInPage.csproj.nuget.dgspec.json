@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CT_USER\\source\\repos\\SignInPage\\SignInPage\\SignInPage.csproj": {}
+    "C:\\Users\\CT_USER\\source\\repos\\Task-Management-Portel-Backend\\SignInPage\\SignInPage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CT_USER\\source\\repos\\SignInPage\\SignInPage\\SignInPage.csproj": {
+    "C:\\Users\\CT_USER\\source\\repos\\Task-Management-Portel-Backend\\SignInPage\\SignInPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CT_USER\\source\\repos\\SignInPage\\SignInPage\\SignInPage.csproj",
+        "projectUniqueName": "C:\\Users\\CT_USER\\source\\repos\\Task-Management-Portel-Backend\\SignInPage\\SignInPage.csproj",
         "projectName": "SignInPage",
-        "projectPath": "C:\\Users\\CT_USER\\source\\repos\\SignInPage\\SignInPage\\SignInPage.csproj",
+        "projectPath": "C:\\Users\\CT_USER\\source\\repos\\Task-Management-Portel-Backend\\SignInPage\\SignInPage.csproj",
         "packagesPath": "C:\\Users\\CT_USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CT_USER\\source\\repos\\SignInPage\\SignInPage\\obj\\",
+        "outputPath": "C:\\Users\\CT_USER\\source\\repos\\Task-Management-Portel-Backend\\SignInPage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CT_USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

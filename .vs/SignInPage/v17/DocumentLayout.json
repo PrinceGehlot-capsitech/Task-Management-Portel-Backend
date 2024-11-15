@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CT_USER\\source\\repos\\Task-Management-Portel-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DD4704-DEE3-4912-A3A6-8A2E6EF0F61E}|SignInPage\\SignInPage.csproj|c:\\users\\ct_user\\source\\repos\\task-management-portel-backend\\signinpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DD4704-DEE3-4912-A3A6-8A2E6EF0F61E}|SignInPage\\SignInPage.csproj|solutionrelative:signinpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CT_USER\\source\\repos\\Task-Management-Portel-Backend\\SignInPage\\Program.cs",
+              "RelativeDocumentMoniker": "SignInPage\\Program.cs",
+              "ToolTip": "C:\\Users\\CT_USER\\source\\repos\\Task-Management-Portel-Backend\\SignInPage\\Program.cs",
+              "RelativeToolTip": "SignInPage\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:46:14.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
