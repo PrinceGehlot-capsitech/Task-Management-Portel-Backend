@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.vs/SignInPage/v17/.suo
+.vs/SignInPage/v17/.suo
+.vs/SignInPage/v17/DocumentLayout.json
